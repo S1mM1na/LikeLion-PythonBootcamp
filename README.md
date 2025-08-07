@@ -30,15 +30,22 @@
 | 분야 | 기술 스택 |
 |------|-----------|
 | **언어** | Python 3.x |
-| **웹 프레임워크** | Django, Django REST Framework |
-| **데이터베이스** | SQLite, PostgreSQL |
+| **웹 프레임워크** | Django, Django REST Framework, FastAPI |
+| **프론트엔드** | HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS |
+| **디자인 도구** | Figma |
+| **데이터베이스** | SQLite, PostgreSQL, MongoDB |
+| **ORM** | Django ORM |
+| **API 및 인증** | REST API, JWT, Postman |
+| **AI 활용** | LLM API, ChatGPT, OpenAI API, LangChain, MCP |
+| **코딩 툴** | VS Code, Cursor, Jupyter Notebook |
+| **패키지 관리** | pip, venv, Miniconda, uv |
 | **버전 관리** | Git, GitHub |
-| **코딩 툴** | VS Code, Jupyter Notebook |
-| **패키지 관리** | pip, venv |
-| **테스트 / 디버깅** | `pdb`, Postman, pytest |
-| **배포 / 인프라** | AWS EC2 / S3, Heroku, Railway |
-| **CI/CD** | GitHub Actions (선택) |
-| **AI 활용** | ChatGPT, OpenAI API |
+| **테스트 / 디버깅** | pdb, Postman, pytest |
+| **비동기 작업 / 캐싱** | Celery, Redis |
+| **배포 / 인프라** | AWS (EC2, S3), Heroku, Railway, Ubuntu Server |
+| **컨테이너 / 오케스트레이션** | Docker, Kubernetes |
+| **웹 서버 / 보안** | Nginx, HTTPS |
+| **CI/CD** | GitHub Actions |
+| **아키텍처** | MSA (Microservices Architecture) |
 | **협업 도구** | Notion, Discord, Google Docs |
-
 ---
